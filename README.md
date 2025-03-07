@@ -5,7 +5,7 @@
 HTML is a code that defines the structure and content of web pages. It's the basic building block of the web and is used by all major web browsers. 
 
 ### Heading Element :-
-In HTML, "heading elements" are tags like "<h1>, <h2>, <h3>, <h4>, <h5>, <h6>". which are used to define different levels of titles or headings on a webpage.
+In HTML, "heading elements" are tags like "<h1><h2><h3><h4><h5><h6>". which are used to define different levels of titles or headings on a webpage.
 
 ### Example Code :-
 <h1>Book</h1>
