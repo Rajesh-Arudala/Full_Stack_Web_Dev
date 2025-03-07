@@ -29,4 +29,5 @@ A "paragraph element" is simply a piece of code in website design (HTML) that te
 ### 	Output :-
 <p> Hi this Rajesh from VIGNAN UNIVERSITY’S.</p><p>I am studying BCA in your college. </p>
 ###image :-
-![image](https://github.com/user-attachments/assets/49cde21b-2bb4-4a65-b48a-51bf067bfa47)
+![image](https://github.com/user-attachments/assets/695463e9-701a-4af5-90d8-1d0e18c1b648)
+
