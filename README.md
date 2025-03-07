@@ -27,4 +27,4 @@ In HTML, "heading elements" are tags like "h1,h2,h3,h4,h5,h6". which are used to
 ### Paragraph Element :-
 A "paragraph element" is simply a piece of code in website design (HTML) that tells the browser to display a block of text as a separate paragraph.
 ### 	Example Code :-
-<p>Hi this Rajesh from VIGNAN UNIVERSITY’S.</p><p>I am studying BCA in your college.</p>
+p Hi this Rajesh from VIGNAN UNIVERSITY’S.</p><p>I am studying BCA in your college. /p
