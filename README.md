@@ -19,5 +19,6 @@ In HTML, "heading elements" are tags like "<h1>", "<h2>", "<h3>", "<h4>", "<h5>"
 <h3>Section 1</h3>
 <h3>Section 2</h3>
 
+
 ### Output :-
 ![image](https://github.com/user-attachments/assets/014c4042-4f20-46e3-9c5c-4d7733b74c7e)
