@@ -7,7 +7,7 @@ HTML is a code that defines the structure and content of web pages. It's the bas
 ### Heading Element :-
 In HTML, "heading elements" are tags like "h1,h2,h3,h4,h5,h6". which are used to define different levels of titles or headings on a webpage.
 
-### Example Code :-
+### Output :-
 <h1>Book</h1>
 <h2>Chapter 1</h2>
 <h3>Section 1</h3>
@@ -20,11 +20,13 @@ In HTML, "heading elements" are tags like "h1,h2,h3,h4,h5,h6". which are used to
 <h3>Section 2</h3>
 
 
-### Output :-
+### Image :-
 ![image](https://github.com/user-attachments/assets/014c4042-4f20-46e3-9c5c-4d7733b74c7e)
 
 
 ### Paragraph Element :-
 A "paragraph element" is simply a piece of code in website design (HTML) that tells the browser to display a block of text as a separate paragraph.
-### 	Example Code :-
-p Hi this Rajesh from VIGNAN UNIVERSITY’S.</p><p>I am studying BCA in your college. /p
+### 	Output :-
+<p> Hi this Rajesh from VIGNAN UNIVERSITY’S.</p><p>I am studying BCA in your college. </p>
+###image :-
+![image](https://github.com/user-attachments/assets/49cde21b-2bb4-4a65-b48a-51bf067bfa47)
